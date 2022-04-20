@@ -8,7 +8,7 @@ tags:
     - eight_point_algorithm
     - epipolar_line
 ---
-# OpenCV library implementation1
+# OpenCV library implementation3
 - implement OpenCV functions with Numpy
 - from given matching feature points,
     - find fundamental matrix using eight point algorithm
